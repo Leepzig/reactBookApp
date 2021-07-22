@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Age of Stone",
+      "author": "My moms",
+      "description": "stone stuff",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "description": "an 11 year old goes to Hogwarts\n",
+      "id": 2
+    },
+    {
+      "title": "LOTR",
+      "author": "Tolkien",
+      "description": "hobbits and goblins and orcs oh my!\n",
+      "id": 3
+    }
+  ]
+}
